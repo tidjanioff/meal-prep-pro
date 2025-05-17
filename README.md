@@ -40,7 +40,7 @@ All actions are easily triggered via simple numeric inputs in the terminal.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/meal-prep-pro.git
+git clone https://github.com/tidjanioff/meal-prep-pro.git
 ```
 
 ### 2. Install Dependencies
