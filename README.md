@@ -1,6 +1,6 @@
 # 🍽️ Meal Prep Pro
 
-**Meal Prep Pro** is a terminal-based Python application built as a final project for **CS50P'**. It helps users generate weekly meal plans, calculate calorie intake, and create personalized grocery lists. Whether you're a student living alone or someone looking to simplify weekly meal prep, Meal Prep Pro is designed to make your life easier — one meal at a time.
+**Meal Prep Pro** is a terminal-based Python application built as a final project for **CS50P**. It helps users generate weekly meal plans, calculate calorie intake, and create personalized grocery lists. Whether you're a student living alone or someone looking to simplify weekly meal prep, Meal Prep Pro is designed to make your life easier — one meal at a time.
 
 <p align="center">
   <img src="assets/MPP.png" alt="Meal Prep Pro Logo"/>
@@ -40,7 +40,7 @@ All actions are easily triggered via simple numeric inputs in the terminal.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/meal-prep-pro.git
+git clone https://github.com/tidjanioff/meal-prep-pro.git
 ```
 
 ### 2. Install Dependencies
@@ -86,15 +86,15 @@ python3 project.py
 ## 📝 Example Usage
 
 When the app launches, you'll see:  
-→ Tap 1 to generate your 7-day menu <br>
-→ Tap 2 if you want to add new meals to the collection <br>
-→ Tap 0 to end the program <br><br>
+→ Tap **1** to generate your 7-day menu <br>
+→ Tap **2** if you want to add new meals to the collection <br>
+→ Tap **0** to end the program <br><br>
 
 If you choose to generate a menu:  
-→ Tap 3 to display this menu's calorie intake <br>
-→ Tap 4 to generate a groceries list for this menu <br>
-→ Tap 5 to search for the ingredients of a recipe <br>
-→ Tap 0 to end the program
+→ Tap **3** to display this menu's calorie intake <br>
+→ Tap **4** to generate a groceries list for this menu <br>
+→ Tap **5** to search for the ingredients of a recipe <br>
+→ Tap **0** to end the program
 
 ---
 
