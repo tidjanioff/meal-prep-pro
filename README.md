@@ -86,15 +86,15 @@ python3 project.py
 ## 📝 Example Usage
 
 When the app launches, you'll see:  
-→ Tap 1 to generate your 7-day menu <br>
-→ Tap 2 if you want to add new meals to the collection <br>
-→ Tap 0 to end the program <br><br>
+→ Tap **1** to generate your 7-day menu <br>
+→ Tap **2** if you want to add new meals to the collection <br>
+→ Tap **0** to end the program <br><br>
 
 If you choose to generate a menu:  
-→ Tap 3 to display this menu's calorie intake <br>
-→ Tap 4 to generate a groceries list for this menu <br>
-→ Tap 5 to search for the ingredients of a recipe <br>
-→ Tap 0 to end the program
+→ Tap **3** to display this menu's calorie intake <br>
+→ Tap **4** to generate a groceries list for this menu <br>
+→ Tap **5** to search for the ingredients of a recipe <br>
+→ Tap **0** to end the program
 
 ---
 
