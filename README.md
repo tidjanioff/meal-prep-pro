@@ -1,6 +1,6 @@
 # 🍽️ Meal Prep Pro
 
-**Meal Prep Pro** is a terminal-based Python application built as a final project for **CS50P'**. It helps users generate weekly meal plans, calculate calorie intake, and create personalized grocery lists. Whether you're a student living alone or someone looking to simplify weekly meal prep, Meal Prep Pro is designed to make your life easier — one meal at a time.
+**Meal Prep Pro** is a terminal-based Python application built as a final project for **CS50P**. It helps users generate weekly meal plans, calculate calorie intake, and create personalized grocery lists. Whether you're a student living alone or someone looking to simplify weekly meal prep, Meal Prep Pro is designed to make your life easier — one meal at a time.
 
 <p align="center">
   <img src="assets/MPP.png" alt="Meal Prep Pro Logo"/>
