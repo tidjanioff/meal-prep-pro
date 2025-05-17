@@ -17,7 +17,7 @@ CS50P empowers students to explore problem-solving through Python, and **Meal Pr
 Special thanks to Professor Malan and the entire CS50 staff for an inspiring and rigorous learning experience.
 
 <p align="center">
-  <img src="assets/Harvard_University_logo.png" alt="Harvard University Logo"/>
+  <img src="assets/CS50P.png" alt="CS50P Certificate"/>
 </p>
 
 
@@ -79,7 +79,7 @@ python3 project.py
 - `README.md` – Project documentation  
 - `assets/` – Folder containing project visuals:
   - `MPP.png` – Logo for Meal Prep Pro  
-  - `Harvard_University_logo.png` – Harvard logo
+  - `CS50P.png` – CS50P Certificate
 
 ---
 
