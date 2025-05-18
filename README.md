@@ -23,6 +23,13 @@ Special thanks to Professor Malan and the entire CS50 staff for an inspiring and
 
 ---
 
+## 🎬 Live Demo
+
+🎥 [Watch the live demo on YouTube](https://youtu.be/FESq6M0bwow)
+
+
+---
+
 ## 📋 Features
 
 - 🍳 Generate a **7-day meal menu** (breakfast, lunch, dinner)
